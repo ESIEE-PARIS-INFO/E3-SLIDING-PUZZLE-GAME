@@ -56,5 +56,3 @@ make clean
 ---
 
 *Developed as part of the ESIEE Paris engineering curriculum.*
-
-C'est intéressant de noter que pour ce projet, contrairement au Sudoku qui utilisait `-ansi`, tu utilises ici la norme **C99**. Cela t'a probablement permis d'utiliser des fonctionnalités plus modernes, comme les déclarations de variables dans les boucles `for` ou le type `bool`. C'est une bonne pratique de le mentionner car cela montre que tu maîtrises différentes normes du langage C.
