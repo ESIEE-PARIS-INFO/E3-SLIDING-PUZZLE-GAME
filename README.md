@@ -40,7 +40,7 @@ make
 Launch the game with:
 
 ```bash
-./taquin
+./taquin path/to/your/png
 
 ```
 
